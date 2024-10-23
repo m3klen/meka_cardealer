@@ -1,0 +1,18 @@
+Locales['da'] = {
+    ['no_nearby'] = 'Der er ingen spiller i nærheden.',
+    ['sold_veh'] = 'Du solgte en ~b~%s~s~ til ~y~%s~s~ for ~r~DKK%s',
+    ['bought_veh'] = 'Du har købt en ~b~%s~s~ med nummerpladen ~y~%s~s~ for ~r~DKK%s',
+    ['not_enought'] = '~y~%s~s~ har ~r~ikke~s~ råd til at købe en ~b~%s',
+    ['not_enought_to'] = 'Du har ~r~ikke~s~ råd til at købe en ~b~%s',
+    ['type_number'] = 'Du skal anvgive et tal.',
+    ['low_price'] = 'Prisen du har angivet er for lav!',
+    ['job_menu_title'] = 'Bilforhandler',
+    ['job_menu_sell'] = 'Sælg et køretøj',
+    ['job_menu_sell_select_model'] = 'Skriv en model på et køretøj (fx. schafter3)',
+    ['job_menu_sell_select_price'] = 'Skriv en pris på et køretøj (fx. 30000)',
+    ['job_menu_spawn'] = 'Spawn et demo køretøj',
+    ['job_menu_spawn_select_model'] = 'Skriv en model på et køretøj (fx. dubsta)',
+    ['job_menu_del'] = 'Fjern et demo køretøj',
+    ['job_menu_del_no_veh'] = 'Du skal side i et køretøj!',
+    ['job_menu_del_not_demo'] = 'Dette køretøj er ~r~ikke~s~ et ~b~Demo-Køretøj~s~!',
+}
